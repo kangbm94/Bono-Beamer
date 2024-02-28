@@ -1,0 +1,49 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Bono}{book}{}
+      \name{author}{1}{}{%
+        {{hash=07dd6d65294aec795090910087996093}{%
+           family={Bonobono},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bono University Press}%
+      }
+      \strng{namehash}{07dd6d65294aec795090910087996093}
+      \strng{fullhash}{07dd6d65294aec795090910087996093}
+      \strng{bibnamehash}{07dd6d65294aec795090910087996093}
+      \strng{authorbibnamehash}{07dd6d65294aec795090910087996093}
+      \strng{authornamehash}{07dd6d65294aec795090910087996093}
+      \strng{authorfullhash}{07dd6d65294aec795090910087996093}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{123456789}
+      \field{title}{Bonobono and an Insane Presentation}
+      \field{year}{2024}
+      \keyw{rainbow}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
