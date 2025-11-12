@@ -1,5 +1,6 @@
 \documentclass[
 	xcolor=dvipsnames,
+	aspectratio=169,
 	10pt, 
 	]{beamer}
 \graphicspath{{./fig/}}
@@ -10,6 +11,32 @@
 {
 	\includegraphics[width=\paperwidth,height=\paperheight]{./bonos/Bonobono}%
 }
+
+
+
+%%Disable these if you don'w want ToC
+\setbeamercolor{section page}{fg = white}
+\setbeamertemplate{section page}
+{
+	\begin{centering}
+		\vfill
+		\usebeamercolor[fg]{section page}
+		\usebeamerfont{section title}\Huge \insertsection\par
+		\vfill
+	\end{centering}
+}
+
+\AtBeginSection[] % show section page automatically
+{
+	\begin{frame}
+		\sectionpage
+	\end{frame}
+}
+\setbeamertemplate{section in toc}{\Large \inserttocsectionnumber.~\inserttocsection}
+\setbeamertemplate{subsection in toc}{\hspace{1.2em} $\bullet$~\inserttocsubsection}
+\setbeamercolor{section in toc}{fg=white}
+\setbeamercolor{subsection in toc}{fg=white}
+%%ToC
 
 \usepackage{biblatex}
 \bibliography{Bibilography.bib}
@@ -27,13 +54,57 @@
        \titlepage
         \footnotetext[1]{Bono University}
 \end{frame}
+\begin{frame}{Outline}
+	\tableofcontents
+\end{frame}
+\section{Bonobono}
 \begin{frame}{Introduction}
 	\begin{block}{}
 		Bonobono has been an iconic character for an impressive presentation.\cite{Bono}
 	\end{block}
+	\tcl{5}{11}{%column width for left and right sections in cm.
+		\begin{figure}
+			\includegraphics[width=\textwidth]{logos/BonoWhy}
+		\end{figure}
+	}{
+		\begin{figure}
+
+	\begin{picture}(200,90)%You can adjust picture position in this enviornment
+		\put(0,-10){
+			\includegraphics[width=.6\textwidth]{logos/BusyBono}
+			\put(-250,60){
+				\rotatebox{15}{\Huge \textcolor{BonoWhite}{Yo$\sim$ Hisasiburi!}}%You can put text on the figure
+			}
+		}
+
+	\end{picture}
+\end{figure}
+
+		\begin{block}{Column Separation}
+			\begin{itemize}
+				\item Bono beamer provides simple methods to  separate your slide into columns.
+				\item Column width can be easily adjusted
+			\end{itemize}
+		\end{block}
+	}
 \end{frame}
+\section{Porori}
 %\begin{frame}[allowframebreaks]{References}
+\begin{frame}{Will You Hurt Me?}
+	\tcl{8}{8}{
+		\includegraphics[width=\textwidth]{PororiHitMe}
+	}{
+	\begin{block}{Last Update: Nov 12, 2025}
+		\begin{itemize}
+			\item Aspect ratio modified to 16:9
+			\item Section separation added
+			\item Basic example provided
+		\end{itemize}
+	\end{block}
+	}
+\end{frame}
 \begin{frame}{References}
 	 	\printbibliography
 \end{frame}
+
 \end{document}
