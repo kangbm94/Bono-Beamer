@@ -3,4 +3,4 @@
 \defcounter {refsection}{0}\relax 
 \beamer@sectionintoc {1}{Bonobono}{3}{0}{1}
 \defcounter {refsection}{0}\relax 
-\beamer@sectionintoc {2}{Porori}{5}{0}{2}
+\beamer@sectionintoc {2}{\leavevmode {\color {PororiPink}Porori}}{5}{0}{2}

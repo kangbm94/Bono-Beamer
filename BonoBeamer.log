@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.2.13)  12 NOV 2025 12:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.2.13)  12 NOV 2025 12:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1703,13 +1703,13 @@ Package logreq Info: Writing requests to 'BonoBeamer.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34529 strings out of 492649
- 746535 string characters out of 6129622
- 1268616 words of memory out of 5000000
- 37737 multiletter control sequences out of 15000+600000
+ 34530 strings out of 492649
+ 746552 string characters out of 6129622
+ 1269000 words of memory out of 5000000
+ 37738 multiletter control sequences out of 15000+600000
  28547 words of font info for 109 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 76i,21n,79p,800b,1789s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 76i,21n,79p,800b,1827s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pf
 b></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><
 /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></us
@@ -1720,7 +1720,7 @@ ocal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/loc
 al/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/lo
 cal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loc
 al/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/euler/eusm10.pfb>
-Output written on BonoBeamer.pdf (7 pages, 391507 bytes).
+Output written on BonoBeamer.pdf (7 pages, 391565 bytes).
 PDF statistics:
  178 PDF objects out of 1000 (max. 8388607)
  108 compressed objects within 2 object streams
