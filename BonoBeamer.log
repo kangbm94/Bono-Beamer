@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.2.13)  12 NOV 2025 12:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.2.13)  14 NOV 2025 14:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1488,16 +1488,17 @@ File: ./fig/./logos/BusyBono.png Graphic file (type png)
 <use ./fig/./logos/BusyBono.png>
 Package pdftex.def Info: ./fig/./logos/BusyBono.png  used on input line 56.
 (pdftex.def)             Requested size: 76.82307pt x 76.82222pt.
-<./fig/./bonos/Bonobono.jpeg, id=62, 136.51pt x 85.31876pt>
-File: ./fig/./bonos/Bonobono.jpeg Graphic file (type jpg)
-<use ./fig/./bonos/Bonobono.jpeg>
-Package pdftex.def Info: ./fig/./bonos/Bonobono.jpeg  used on input line 56.
-(pdftex.def)             Requested size: 213.97955pt x 98.10016pt.
-<./fig/./bonos/BonoMirror.jpeg, id=63, 136.51pt x 85.31876pt>
-File: ./fig/./bonos/BonoMirror.jpeg Graphic file (type jpg)
-<use ./fig/./bonos/BonoMirror.jpeg>
-Package pdftex.def Info: ./fig/./bonos/BonoMirror.jpeg  used on input line 56.
-(pdftex.def)             Requested size: 213.97955pt x 98.10016pt.
+<./fig/./bonos/BonoRainbow.png, id=62, 1541.76pt x 1027.84pt>
+File: ./fig/./bonos/BonoRainbow.png Graphic file (type png)
+<use ./fig/./bonos/BonoRainbow.png>
+Package pdftex.def Info: ./fig/./bonos/BonoRainbow.png  used on input line 56.
+(pdftex.def)             Requested size: 213.9629pt x 98.08495pt.
+<./fig/./bonos/BonoRainbowMirror.png, id=63, 1541.76pt x 1027.84pt>
+File: ./fig/./bonos/BonoRainbowMirror.png Graphic file (type png)
+<use ./fig/./bonos/BonoRainbowMirror.png>
+Package pdftex.def Info: ./fig/./bonos/BonoRainbowMirror.png  used on input lin
+e 56.
+(pdftex.def)             Requested size: 213.9629pt x 98.08495pt.
 LaTeX Font Info:    Try loading font information for U+eur on input line 56.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/ueur.fd
@@ -1540,6 +1541,7 @@ File: ./fig/./logos/BonoGood.png Graphic file (type png)
 <use ./fig/./logos/BonoGood.png>
 Package pdftex.def Info: ./fig/./logos/BonoGood.png  used on input line 56.
 (pdftex.def)             Requested size: 64.01831pt x 64.01869pt.
+<./fig/./bonos/Bonobono.jpeg, id=65, 136.51pt x 85.31876pt>
 File: ./fig/./bonos/Bonobono.jpeg Graphic file (type jpg)
 <use ./fig/./bonos/Bonobono.jpeg>
 Package pdftex.def Info: ./fig/./bonos/Bonobono.jpeg  used on input line 56.
@@ -1547,8 +1549,9 @@ Package pdftex.def Info: ./fig/./bonos/Bonobono.jpeg  used on input line 56.
  [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./fig/.
-/bonos/Bonobono.jpeg> <./fig/./logos/BusyBono.png> <./fig/./bonos/BonoMirror.jp
-eg> <./fig/./logos/BonoGood.png>] (./BonoBeamer.toc)
+/bonos/Bonobono.jpeg> <./fig/./logos/BusyBono.png> <./fig/./bonos/BonoRainbow.p
+ng (PNG copy)> <./fig/./bonos/BonoRainbowMirror.png> <./fig/./logos/BonoGood.pn
+g>] (./BonoBeamer.toc)
 File: ./fig/./bonos/Bonobono.jpeg Graphic file (type jpg)
 <use ./fig/./bonos/Bonobono.jpeg>
 Package pdftex.def Info: ./fig/./bonos/Bonobono.jpeg  used on input line 59.
@@ -1585,12 +1588,12 @@ Overfull \hbox (20.03209pt too wide) detected at line 90
 []
  []
 
-<./fig/logos/BonoWhy.png, id=94, 210.7875pt x 210.7875pt>
+<./fig/logos/BonoWhy.png, id=95, 210.7875pt x 210.7875pt>
 File: ./fig/logos/BonoWhy.png Graphic file (type png)
 <use ./fig/logos/BonoWhy.png>
 Package pdftex.def Info: ./fig/logos/BonoWhy.png  used on input line 90.
 (pdftex.def)             Requested size: 142.26378pt x 142.26578pt.
-<./fig/logos/BusyBono.png, id=95, 361.35pt x 361.35pt>
+<./fig/logos/BusyBono.png, id=96, 361.35pt x 361.35pt>
 File: ./fig/logos/BusyBono.png Graphic file (type png)
 <use ./fig/logos/BusyBono.png>
 Package pdftex.def Info: ./fig/logos/BusyBono.png  used on input line 90.
@@ -1636,7 +1639,7 @@ Overfull \hbox (3.08344pt too wide) has occurred while \output is active
 [5
 
 ]
-<./fig/PororiHitMe.pdf, id=113, 331.33598pt x 218.16788pt>
+<./fig/PororiHitMe.pdf, id=114, 331.33598pt x 218.16788pt>
 File: ./fig/PororiHitMe.pdf Graphic file (type pdf)
 <use ./fig/PororiHitMe.pdf>
 Package pdftex.def Info: ./fig/PororiHitMe.pdf  used on input line 105.
@@ -1703,10 +1706,10 @@ Package logreq Info: Writing requests to 'BonoBeamer.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34530 strings out of 492649
- 746552 string characters out of 6129622
- 1269000 words of memory out of 5000000
- 37738 multiletter control sequences out of 15000+600000
+ 34536 strings out of 492649
+ 746748 string characters out of 6129622
+ 1269083 words of memory out of 5000000
+ 37743 multiletter control sequences out of 15000+600000
  28547 words of font info for 109 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  76i,21n,79p,800b,1827s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1720,10 +1723,10 @@ ocal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/loc
 al/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/lo
 cal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loc
 al/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/euler/eusm10.pfb>
-Output written on BonoBeamer.pdf (7 pages, 391565 bytes).
+Output written on BonoBeamer.pdf (7 pages, 7433431 bytes).
 PDF statistics:
- 178 PDF objects out of 1000 (max. 8388607)
+ 179 PDF objects out of 1000 (max. 8388607)
  108 compressed objects within 2 object streams
  19 named destinations out of 1000 (max. 500000)
- 249 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 254 words of extra memory for PDF output out of 10000 (max. 10000000)
 
